@@ -1,6 +1,6 @@
 # Shawn Lim
 
-> <shawn@storyline.io> • (+65) 9092-5320 • Singapore
+> <shawn@storyline.io> • (+65) 9092-5320 • Singapore • [LinkedIn](https://www.linkedin.com/in/shawn-lim-0a307550/).
 
 ---
 
@@ -11,10 +11,10 @@ Background in Business and Entrepreneurship. Equipped with heavy knowledge in bu
 ## Skills
 
 Full Stack
-: Fluent in frontend, backend, and infrastructure. Used React, Node.js, JavaScript, Java, Spring Boot, Golang, Haskell, AWS and a lot of deployment tools at scale.
+: Fluent in frontend, backend, and infrastructure. Used React, Node.js, JavaScript (ES6), Java, Spring Boot, Golang, Haskell, AWS, Terraform, and many other tools.
 
 Architecture
-: Organizational influence of 100+ engineers, conducting design reviews and spreading best practices. Posts frequently about engineering topics on [LinkedIn](https://www.linkedin.com/in/shawn-lim-0a307550/).
+: Fluent with microservice design patterns, distributed systems and GoF patterns. Organizational influence of 100+ engineers, conducting design reviews and spreading best practices.
 
 Comms
 : Capable of high-level communication (C-levels, product, business) and low-level communication (with engineers) using code and Proof-of-Concepts.
