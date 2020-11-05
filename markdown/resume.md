@@ -1,100 +1,80 @@
-Johnny Coder
-============
+# Shawn Lim
 
-----
+> <shawn@storyline.io> • (+65) 9092-5320 • Singapore
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+---
 
-----
+Background in Business and Entrepreneurship. Equipped with heavy knowledge in building and designing software systems. Because of this unique intersection between business & software engineering, I can easily influence and win the trust of people from both sides.
 
-Education
----------
+---
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+## Skills
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+Full Stack
+: Fluent in frontend, backend, and infrastructure. Used React, Node.js, JavaScript, Golang, Haskell, AWS and a lot of deployment tools at scale.
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+Architecture
+: Organizational influence of 100+ engineers, conducting design reviews and spreading best practices. Posts frequently about engineering topics on [LinkedIn](https://www.linkedin.com/in/shawn-lim-0a307550/).
 
-    *Minor: Awesomeology*
+Comms
+: Capable of high-level communication (C-levels, product, business) and low-level communication (with engineers) using code and Proof-of-Concepts.
 
-Experience
-----------
+## Experience
 
-**Your Most Recent Work Experience:**
+**Principal Software Engineer / Architect** \
+Traveloka, Singapore\
+Jun 2019 - Present
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+- Principal Architect for 2 major business domains - Transport and Financial Services. Directly in charge of the core product for Flight, Ground Transport and the Insurance Platform.
 
-* First item
+- Report directly to CTO and provide strategic and tactical direction when it comes to technical hygiene. This involves the correct level of tradeoff analysis to help engineering teams meet business requirements and the long term technical vision.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+- Provide company-wide technical mentorship to spread best practices and help engineers to improve the systems we work on. This includes guiding design reviews, revamping systems, reviewing existing architecture, organizing engineering workshops, creating software architecture interest groups etc.
 
-**That Other Job You Had**
+**Tech Lead / Software Architect** \
+AXA, Singapore\
+May 2018 - Jun 2019
 
-Also with a short description.
+- Built an insurance-as-a-service (IAAS) platform, transforming AXA to sell insurance products via APIs.
 
-Technical Experience
---------------------
+- Drove architectural proposals, set engineering standards, and collaboration norms for a team of 30+ engineers. E.g., Test coverage expectations, application integration tests with Cypress, audit and scanning requirements, CI / CD, etc.
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+- Key achievements: authentication platform, monitoring tools, shared UI component libraries, AXA Affiliation Platform, core Insurance API development, hiring and onboarding improvements, bi-weekly developer talks.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+**Full Stack Engineer** \
+Standard Chartered Bank, Singapore\
+Aug 2017 - Apr 2018
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+- Identified tedious processes within the bank (e.g., manually generating reports) and develop tools for Risk Managers to automate their workflow. One of these initiatives include a file sharing application that complies with tight security measures and works well with in-house technologies / workflows.
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+- Led the team in efforts to innovate on new ways of developing the user interface, in particular moving the team away from compiled desktop applications to Web Applications running on Elm.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+- Test Driven Development using a combination of compile time check, property type checking, and acceptance criteria testing. We designed and built our own test runner that spits out a report describing test run status in Cucumber syntax. This allows non-tech stakeholders to easily see whether all features are working.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+**Software Engineer (Frontend Lead)** \
+Zendesk, Singapore\
+Jan 2016 - Aug 2017
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+- Built a brand new product in the Zendesk Suite called Message. Zendesk Message is a web application that allows support agents to respond to customer queries on many popular social media messaging channels (Facebook, Twitter, etc.).
 
-[ref]: https://github.com/githubuser/superlongprojectname
+- Designed and led the front-end development of the product from scratch. Also grew to the team of engineers to 4, and ensuring engineering excellence in the team by promoting code linting, documentation, testing and encouraging discussions to happen.
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+- Key achievements: pioneered a rewrite from an in-house framework to React for Zendesk Message, frontend library development, chat microservices.
 
-* Human Languages:
+**Software Engineer (Web Platform Lead)** \
+Carousell, Singapore\
+Aug 2014 - Dec 2015
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+- Engineer #4 and first web engineer of Carousell. Pioneered the development of the [Carousell Web platform](https://carousell.com) when Carousell's main business was still in mobile.
 
-* Random tidbit
+- Grew a small team of 3 web developers to manage the web platform. Established a culture of quality within the web team by setting up automated linting and testing, workflows for code collaboration, bug fixing guides, and technical roadmapping.
 
-* Other sort of impressive-sounding thing you did
+- Key achievements: isomorphic web development, automated deployments, internationalization.
 
-----
+**Founder** \
+Storyline.io, Singapore\
+Jan 2012 - Jan 2015
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+- Flagship product is Storyline - Storyline is a collaborative writing website built for writers of all skill levels to participate in a creative process of writing stories together.
+
+- Scope of work include customer support, UX / UI design, and software development. Worked with Rocket Internet for growth marketing and SocialMetric for web development.
