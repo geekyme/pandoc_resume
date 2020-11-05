@@ -11,7 +11,7 @@ Background in Business and Entrepreneurship. Equipped with heavy knowledge in bu
 ## Skills
 
 Full Stack
-: Fluent in frontend, backend, and infrastructure. Used React, Node.js, JavaScript, Golang, Haskell, AWS and a lot of deployment tools at scale.
+: Fluent in frontend, backend, and infrastructure. Used React, Node.js, JavaScript, Java, Spring Boot, Golang, Haskell, AWS and a lot of deployment tools at scale.
 
 Architecture
 : Organizational influence of 100+ engineers, conducting design reviews and spreading best practices. Posts frequently about engineering topics on [LinkedIn](https://www.linkedin.com/in/shawn-lim-0a307550/).
