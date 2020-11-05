@@ -1,6 +1,6 @@
 # Shawn Lim
 
-> <shawn@storyline.io> • (+65) 9092-5320 • Singapore • [LinkedIn](https://www.linkedin.com/in/shawn-lim-0a307550/).
+> <shawn@storyline.io> • (+65) 9092-5320 • Singapore • [LinkedIn](https://www.linkedin.com/in/shawn-lim-0a307550/)
 
 ---
 
