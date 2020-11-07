@@ -17,7 +17,7 @@ Architecture
 : Fluent with microservice design patterns, distributed systems and GoF patterns. Organizational influence of 100+ engineers, conducting design reviews and spreading best practices.
 
 People
-: Capable of high-level communication (C-levels, product, business) and low-level communication (with engineers) using code and Proof-of-Concepts.
+: Capable of high-level communication (with C-level, product, business) and low-level communication (with engineers) using code and Proof-of-Concepts.
 
 ## Experience
 
